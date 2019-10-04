@@ -5,5 +5,5 @@ var krms_driver_config ={
 	'DialogDefaultTitle':"DriverApp",
 	'mapboxToken' : '',
 	'APIHasKey':"w1o3sdsfvo4eandux30mdr3b70hb4a1fozmd267j",
-	'debug': false
+	'debug': true
 };
